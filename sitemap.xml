@@ -1,244 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>/categories/about/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/categories/creating/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/categories/overview/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/categories/managing/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/lectures/about/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/lectures/creating/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/lectures/material/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/meetings/about/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/meetings/creating/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/meetings/timetable/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/meetings/minutes/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/meetings/material/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/conferences/about/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/programme/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/cfa/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/submitting/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/reviewing/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/registration_config/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/registration/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/custom_menu/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/conferences/custom_layout/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/room_booking/about/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/accessing/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/booking/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/search_and_book/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/viewing_bookings/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/blocking/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/features/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/room_booking/glossary/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/surveys/about/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/surveys/setup/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/surveys/opening/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/reminders/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/calendar_import/</loc>
-     <lastmod>2017-09-27</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
 </urlset>
